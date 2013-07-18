@@ -1,0 +1,7 @@
+Ping 
+
+Welcome fellas!
+
+This is a file to make yourself familiar to the git hub environment.
+
+After you clone the repository to your local machine make changes to this file and then commit. 
